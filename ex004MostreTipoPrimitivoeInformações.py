@@ -1,0 +1,6 @@
+n =(input("Digite um valor: "))
+n1 =float(input("Digite um valor real: "))
+n2 =bool(input("Digite um valor boleano: "))
+print(n.isalnum())
+print(type(n1))
+print(n2)
